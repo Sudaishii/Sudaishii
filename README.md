@@ -1,5 +1,5 @@
 <h1 align="center">🌸 Welcome, I'm Rasheed 🌸</h1>
-<h3 align="center">💻 Developer in Progress | Building Worlds in Code & Minecraft</h3>
+<h3 align="center">💻 Developer in Progress | Building Worlds in Code</h3>
 
 ---
 
